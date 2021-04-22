@@ -13,3 +13,4 @@ if($_GET['event'] != 'add-children') {
 $out = $modx->getChunk('tpl.add-children');
 
 echo $out;
+echo $out;
